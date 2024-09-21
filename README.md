@@ -6,7 +6,7 @@
 
 ![Devdudinha GitHub stats](https://github-readme-stats.vercel.app/api?username=devdudinha&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdudinha&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdudinha&langs_count=8)
 
 ## Tecnologias que eu utilizo
 
