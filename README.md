@@ -107,7 +107,7 @@ Me chamo Maria Eduarda, tenho 18 anos, sou uma entusiasta de tecnologia e desenv
     align="left"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdudinha&theme=tokyonight&layout=compact&custom"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdudinha&theme=tokyonight"
     />
 </p>
   
