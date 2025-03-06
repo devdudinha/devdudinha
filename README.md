@@ -1,5 +1,5 @@
 
-### Olá! Eu sou a Maria Eduarda 🤚
+### Olá! Eu sou a Maria Eduarda 👩🏻‍💻
 
 [![Instagram](https://img.shields.io/badge/Instagram-5A189A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devdudinha)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-de-almeida-404991282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
